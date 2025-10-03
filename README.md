@@ -10,3 +10,7 @@ Hello World app
 
 ## License
 MIT License
+
+## Round 2 Update
+Brief changes: Updated Hello World app
+Updated at: 2025-10-03 16:37:15
